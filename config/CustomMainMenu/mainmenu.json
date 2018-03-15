@@ -114,13 +114,24 @@
 	},
 
 	"other": {
-		"panorama":
+		"background":
         {
-            "images" : "custommainmenu:textures/images/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : false
+            "image" : "",
+			"mode" : "fill",
+            "slideshow":
+            {
+                "images" : 
+				[
+					"custommainmenu:textures/images/background/slideshow/01.png",
+					"custommainmenu:textures/images/background/slideshow/02.png",
+					"custommainmenu:textures/images/background/slideshow/03.png",
+					"custommainmenu:textures/images/background/slideshow/04.png",
+					"custommainmenu:textures/images/background/slideshow/05.png",
+					"custommainmenu:textures/images/background/slideshow/06.png"
+				],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            }
         }
 	}
 }
