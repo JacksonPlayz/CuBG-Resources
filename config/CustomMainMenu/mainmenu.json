@@ -1,0 +1,126 @@
+{
+	"images": {
+	
+		"newsBackground": {
+			"image": "custommainmenu:textures/images/newsBackground.png",
+			"posX": -150,
+			"posY": 70,
+			"width": 300,
+			"height": 170,
+			"alignment": "top_center"
+		},
+		
+		"titleSmall": {
+			"image": "custommainmenu:textures/images/logoSmall.png",
+			"posX": -50,
+			"posY": 20,
+			"width": 99,
+			"height": 44,
+			"alignment": "top_center"
+		}
+	},
+
+	"buttons": {
+		"refresh": {
+			"text": "",
+			"posX": 10,
+			"posY": 10,
+			"width": 20,
+			"height": 20,
+			"alignment": "top_left",
+			"texture": "custommainmenu:textures/gui/buttons.png",
+			"tooltip": "Menu Refresh",
+			"action": {
+				"type": "refresh"
+			}
+		},
+
+		"start": {
+			"text": "PLAY",
+			"posX": -165,
+			"posY": 30,
+			"width": 62,
+			"height": 26,
+			"texture": "custommainmenu:textures/buttons/buttonStart.png",
+			"alignment": "top_center",
+			"tooltip": "Join the CuBG server",
+			"action": {
+				"type": "connectToServer",
+				"ip": "cubg.mrcrayfish.com"
+			}
+		},
+
+		"options": {
+			"text": "OPTIONS",
+			"posX": -90,
+			"posY": 39,
+			"width": 50,
+			"height": 10,
+			"texture": "custommainmenu:textures/buttons/buttonNone.png",
+			"alignment": "top_center",
+			"action": 
+			{
+				"type": "openGui",
+				"gui": "options"
+			}
+		},
+		
+		"quit": {
+			"text": "QUIT GAME",
+			"posX": 90,
+			"posY": 30,
+			"width": 73,
+			"height": 26,
+			"texture": "custommainmenu:textures/buttons/buttonQuit.png",
+			"alignment": "top_center",
+			"tooltip": "Quit CuBG",
+			"action": 
+			{
+				"type": "quit"
+			}
+		},
+
+		"help": {
+			"text": "HELP",
+			"posX": 42,
+			"posY": 39,
+			"width": 30,
+			"height": 10,
+			"tooltip": "CuBG Help [COMING SOON!]",
+			"texture": "custommainmenu:textures/buttons/buttonNone.png",
+			"alignment": "top_center"
+		}
+	},
+
+	"labels": {
+	
+		"newsTitle":
+        {
+            "text" : "Latest CuBG News",
+			"posX": -147,
+			"posY": 75,
+            "color" : -1,
+            "alignment" : "top_center"
+        },
+
+		"news":
+        {
+            "text" : "web:https://raw.githubusercontent.com/JacksonPlayz/CuBG-Resources/master/texts/newsLatest.txt",
+			"posX": -147,
+			"posY": 93,
+            "color" : -1,
+            "alignment" : "top_center"
+        }
+	},
+
+	"other": {
+		"panorama":
+        {
+            "images" : "custommainmenu:textures/images/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : false
+        }
+	}
+}
