@@ -21,6 +21,8 @@ GAMEPLAY - ❌
 - In gun mod, add modifier properties to increase damage - ❌
 - Death messages - ✅
 
+ENVIRONMENT - ETA
+
 NOT PRIORITY:
 - Kill Streaks
 - Air Drops
