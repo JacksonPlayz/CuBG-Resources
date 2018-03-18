@@ -1,0 +1,26 @@
+KEY:
+✅ - Done
+❌ - Incomplete
+
+
+
+
+PLUGIN - ❌
+ - If player joins and game running, set to spectator. Remove scoreboard stuff. If game not running, set to adventure mode and tp to lobby area. - ✅
+- Priority slots for staff. - ✅
+- Handle border shrinking. Add custom command to schedule border shrinking. - ✅
+- Custom map on spawn. (Stuck to player) ❌
+- Compass: shows where center of circle will be. (Stuck to player) ❌
+
+GAMEPLAY - ❌ 
+- Making loot chest have items depending on the location they are located. - ✅(Kind of done)
+- Uses crates from furniture mod as special loot boxes, can be opened with crowbar - ❌
+	- Allow crates to use loot tables - ❌
+- Gun griefing gamerule (disable glass breaking) - ✅
+- In lobby, have armor stand holding the weapons. People can test them out like pubg - ✅
+- In gun mod, add modifier properties to increase damage - ❌
+- Death messages - ✅
+
+NOT PRIORITY:
+- Kill Streaks
+- Air Drops
