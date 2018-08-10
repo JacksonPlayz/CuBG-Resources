@@ -1,0 +1,27 @@
+{
+	"capes": [
+		"creator_cape.png": [
+			"68c08594-e7cd-43fb-bdf9-240147ee26cf",
+			"b61e1172-e4f0-450a-9f98-58ec91bc41dc"
+		],
+		"crayfish_cape.png": [
+			"62d17f0b-5248-41f4-befc-2daa457fb266"
+		],
+		"builder_cape.png": [
+			"000399b6-65d1-4979-b3c0-af309112625f",
+			"f899be44-0c29-46c1-b20f-27e950bde621",
+			"8216bff4-77a0-417a-b4e4-c786e68fa141",
+			"83420530-5478-462c-a08d-feb1375ac3e2"
+		],
+		"dev_cape.png": [
+			"cf21dfba-9834-42bb-8f16-2f9c7418ac76",
+			"beb10f7e-f80b-487b-a99e-661d8d798f90",
+			"86dc8a9f-238e-4502-8021-1d488095fd8a"		
+		],
+		"ninja_cape.png": [
+			"07f74ffd-85a5-47e0-b292-9664a3ff589c",
+			"06105bd4-ddcf-4371-bd47-814ff5e43e8c",
+			"c78179a9-9ecb-4b0a-8155-452a42f2c603"
+		]
+	]
+}
