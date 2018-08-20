@@ -18,10 +18,17 @@
             "beb10f7e-f80b-487b-a99e-661d8d798f90",
             "86dc8a9f-238e-4502-8021-1d488095fd8a"        
         ],
-        "ninja_cape.png": [
-            "07f74ffd-85a5-47e0-b292-9664a3ff589c",
-            "06105bd4-ddcf-4371-bd47-814ff5e43e8c",
-            "c78179a9-9ecb-4b0a-8155-452a42f2c603"
-        ]
+        "ninja_emerald_cape.png": [
+            "06105bd4-ddcf-4371-bd47-814ff5e43e8c"
+        ],
+        "ninja_diamond_cape.png": [
+            "07f74ffd-85a5-47e0-b292-9664a3ff589c"
+        ],
+        "ninja_gold_cape.png": [
+            "90766a37-4895-4ac4-be61-11e29b67d9f1"
+        ],
+        "ninja_iron_cape.png": [
+            "ee0e5b9a-cbdc-4cca-b126-acf3aaa42b4f"
+        ],
     }
 }
