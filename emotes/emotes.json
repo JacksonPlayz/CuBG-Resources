@@ -1,0 +1,14 @@
+{
+    "dances": {
+		"danceID": {
+			"name": "Test",
+			"type": "Dance",
+			"description": "A random Dance",
+			"color": "0xffff00ff"
+		}
+    },
+    "users": {
+        "floss": "all",
+        "poison": "all"
+    }
+}
