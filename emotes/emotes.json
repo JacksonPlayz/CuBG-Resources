@@ -9,6 +9,9 @@
     },
     "users": {
         "floss": "all",
-        "poison": "all"
+        "poison": "all",
+	"wave": [
+             "68c08594-e7cd-43fb-bdf9-240147ee26cf"
+	]
     }
 }
