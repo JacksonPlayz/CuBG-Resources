@@ -12,7 +12,6 @@
             "68c08594-e7cd-43fb-bdf9-240147ee26cf",
             "b61e1172-e4f0-450a-9f98-58ec91bc41dc",
             "62d17f0b-5248-41f4-befc-2daa457fb266",
-	    "62d17f0b-5248-41f4-befc-2daa457fb266",
             "000399b6-65d1-4979-b3c0-af309112625f",
             "f899be44-0c29-46c1-b20f-27e950bde621",
             "8216bff4-77a0-417a-b4e4-c786e68fa141",
@@ -25,7 +24,6 @@
             "68c08594-e7cd-43fb-bdf9-240147ee26cf",
             "b61e1172-e4f0-450a-9f98-58ec91bc41dc",
             "62d17f0b-5248-41f4-befc-2daa457fb266",
-	    "62d17f0b-5248-41f4-befc-2daa457fb266",
             "000399b6-65d1-4979-b3c0-af309112625f",
             "f899be44-0c29-46c1-b20f-27e950bde621",
             "8216bff4-77a0-417a-b4e4-c786e68fa141",
@@ -35,6 +33,13 @@
             "beb10f7e-f80b-487b-a99e-661d8d798f90"
 	],
 	"point": "all",
-	"headbang": "all"
+	"headbang": "all",
+	"starjump": "all",
+	"tpose": [
+	    "68c08594-e7cd-43fb-bdf9-240147ee26cf",
+            "b61e1172-e4f0-450a-9f98-58ec91bc41dc",
+            "62d17f0b-5248-41f4-befc-2daa457fb266",
+	    "86dc8a9f-238e-4502-8021-1d488095fd8a"
+	]
     }
 }
