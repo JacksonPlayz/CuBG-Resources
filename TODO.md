@@ -10,7 +10,6 @@
 - Fix the crafting table exploit
 - Fix up the CUBG main menu (Make it look "better" and render the second layer on the player)
 - Fix crystal beams not rendering if you aren't looking at the block.
-- Fix crystal beams going too fast when FPS is higher than 60.
 
 - Render JSON models on players w/o using a physical item for donations / staff accessories.
 
