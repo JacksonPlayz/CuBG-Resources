@@ -1,12 +1,4 @@
 {
-    "dances": {
-		"exampleID": {
-			"name": "Example",
-			"type": "Dance",
-			"description": "A random Dance",
-			"color": "0xffff00ff"
-		}
-    },
     "users": {
         "floss": [
             "68c08594-e7cd-43fb-bdf9-240147ee26cf",
