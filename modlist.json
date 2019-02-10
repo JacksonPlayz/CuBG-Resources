@@ -3,5 +3,20 @@
         "modid": "ironchest",
         "version": "7.0.59.842",
         "download": "https://minecraft.curseforge.com/projects/iron-chests/files/2670493/download"
-    }
+    },
+	{
+		"modid": "inventorytweaks",
+		"version": "1.63",
+		"download": "https://minecraft.curseforge.com/projects/inventory-tweaks/files/2482481/download"
+	},
+	{
+		"modid": "chisel",
+		"version": "0.2.1.35",
+		"download": "https://minecraft.curseforge.com/projects/inventory-tweaks/files/2482481/download"
+	},
+	{
+		"modid": "ctm",
+		"version": "0.3.3.22",
+		"download": "https://minecraft.curseforge.com/projects/ctm/files/2642375/download"
+	}
 ]
