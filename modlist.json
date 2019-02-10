@@ -5,14 +5,9 @@
         "download": "https://minecraft.curseforge.com/projects/iron-chests/files/2670493/download"
     },
 	{
-		"modid": "inventorytweaks",
-		"version": "1.63",
-		"download": "https://minecraft.curseforge.com/projects/inventory-tweaks/files/2482481/download"
-	},
-	{
 		"modid": "chisel",
 		"version": "0.2.1.35",
-		"download": "https://minecraft.curseforge.com/projects/inventory-tweaks/files/2482481/download"
+		"download": "https://minecraft.curseforge.com/projects/chisel/files/2619468/download"
 	},
 	{
 		"modid": "ctm",
