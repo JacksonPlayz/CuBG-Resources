@@ -9,6 +9,7 @@
         "title": "Test",
         "body": "This is also some testing text here",
         "imageUrl": "https://images-ext-1.discordapp.net/external/Bs-hdo9_kjOueUIe14aVP2YcdxjNC4nYrdbBjzrFW38/https/i.ytimg.com/vi/mvz3LRK263E/maxresdefault.jpg",
-        "url": "http://www.didthanoskill.me/"
+        "url": "http://www.didthanoskill.me/",
+        "priority": 1
     }
 ]
