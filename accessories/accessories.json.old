@@ -1,0 +1,62 @@
+{    
+    "capes": {
+        "creator_cape.png": [
+            "b61e1172-e4f0-450a-9f98-58ec91bc41dc"
+        ],
+        "crayfish_cape.png": [
+            "68c08594-e7cd-43fb-bdf9-240147ee26cf",
+            "62d17f0b-5248-41f4-befc-2daa457fb266"
+        ],
+        "builder_cape.png": [
+            "000399b6-65d1-4979-b3c0-af309112625f",
+            "f899be44-0c29-46c1-b20f-27e950bde621",
+            "8216bff4-77a0-417a-b4e4-c786e68fa141",
+            "83420530-5478-462c-a08d-feb1375ac3e2"
+        ],
+        "dev_cape.png": [
+            "cf21dfba-9834-42bb-8f16-2f9c7418ac76",
+            "86dc8a9f-238e-4502-8021-1d488095fd8a",
+            "beb10f7e-f80b-487b-a99e-661d8d798f90"
+        ],
+        "ninja_emerald_cape.png": [
+            "06105bd4-ddcf-4371-bd47-814ff5e43e8c"
+        ],
+        "ninja_diamond_cape.png": [
+            "07f74ffd-85a5-47e0-b292-9664a3ff589c"
+        ],
+        "ninja_gold_cape.png": [
+            "90766a37-4895-4ac4-be61-11e29b67d9f1"
+        ],
+        "ninja_iron_cape.png": [
+            "ee0e5b9a-cbdc-4cca-b126-acf3aaa42b4f"
+        ]
+    },
+    "hoodies": {
+		"252525": [
+			 "86dc8a9f-238e-4502-8021-1d488095fd8a"
+		],
+        "AA0114": [
+            "68c08594-e7cd-43fb-bdf9-240147ee26cf",
+            "62d17f0b-5248-41f4-befc-2daa457fb266"
+        ],
+        "00008B": [
+            "0940aa0f-6ec2-4111-8b8c-bce6e583cc69"
+        ],
+		"00FFFF": [
+			"beb10f7e-f80b-487b-a99e-661d8d798f90"
+		]
+    },
+    "ears": {
+		"deadmau5.png": [
+			"0940aa0f-6ec2-4111-8b8c-bce6e583cc69"
+		],
+		"eyes.png": [
+			"86dc8a9f-238e-4502-8021-1d488095fd8a"
+		]
+    },
+	"chips": {
+		"ff00ff": [
+			"86dc8a9f-238e-4502-8021-1d488095fd8a"
+		]
+	}
+}
