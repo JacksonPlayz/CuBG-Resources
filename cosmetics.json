@@ -1,0 +1,23 @@
+[
+	{
+		"id": "accessory:asdfsfnkjasdf",
+		"model": "hoodie",
+		"properties": {
+			"color": "ff00ff",
+			"texture": {
+				"type": "online",
+				"url": "link here"
+			}
+		}
+	},
+	{
+		"id": "accessory:otherhoodie",
+		"model": "hoodie",
+		"properties": {
+			"texture": {
+				"type": "location",
+				"url": "missingno"
+			}
+		}
+	}
+]
