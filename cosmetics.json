@@ -4,9 +4,11 @@
 		"model": "hoodie",
 		"properties": {
 			"color": "ff00ff",
-			"texture": {
-				"type": "online",
-				"url": "link here"
+			"textures": {
+				"texture1": {
+					"type": "online",
+					"url": "link here"
+				}
 			}
 		}
 	},
@@ -14,9 +16,15 @@
 		"id": "accessory:otherhoodie",
 		"model": "hoodie",
 		"properties": {
-			"texture": {
-				"type": "location",
-				"url": "missingno"
+			"textures": {
+				"texture1": {
+					"type": "location",
+					"url": "missingno"
+				},
+				"texture2": {
+					"type": "location",
+					"url": "missingno"
+				}
 			}
 		}
 	}
